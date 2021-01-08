@@ -1,20 +1,16 @@
 {
-  "name": "module",
-  "title": "New Module",
-  "description": "",
+  "name": "moduleAuditor",
+  "title": "Module Auditor",
+  "description": "A module to audit module compatibility in a helpful and meaningful way against your current FoundryVTT version.",
+  "author": "Aeristoka <jmgriffes@gmail.com>",
   "version": "0.0.1",
-  "minimumCoreVersion": "0.6.2",
-  "compatibleCoreVersion": "0.7.2",
-  "author": "Cody Swendrowski <cody@swendrowski.us>",
-  "dependencies": [
-
-  ],
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "0.7.9",
+  "dependencies": [],
   "esmodules": [
-    "/scripts/module.js"
+    "/scripts/moduleParse.js"
   ],
-  "scripts": [
-    "/scripts/lib/lib.js"
-  ],
+  "scripts": [],
   "styles": [
     "/styles/module.css"
   ],
@@ -25,7 +21,7 @@
       "path": "languages/en.json"
     }
   ],
-  "url": "https://github.com/cswendrowski/FoundryVTT-module",
-  "manifest": "https://github.com/cswendrowski/FoundryVTT-module/releases/download/latest/module.json",
-  "download": "https://github.com/cswendrowski/FoundryVTT-module/releases/download/0.0.1/module.zip"
+  "url": "https://github.com/Aeristoka/ModuleAuditor",
+  "manifest": "https://github.com/Aeristoka/ModuleAuditor/releases/download/latest/module.json",
+  "download": "https://github.com/Aeristoka/ModuleAuditor/releases/download/0.0.1/module.zip"
 }
