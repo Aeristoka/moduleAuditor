@@ -2,7 +2,7 @@
   "name": "moduleAuditor",
   "title": "Module Auditor",
   "description": "A module to audit module compatibility in a helpful and meaningful way against your current FoundryVTT version.",
-  "author": "Aeristoka <jmgriffes@gmail.com>",
+  "author": "Aeristoka",
   "version": "0.0.1",
   "minimumCoreVersion": "0.6.0",
   "compatibleCoreVersion": "0.7.9",
